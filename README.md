@@ -1,7 +1,6 @@
 # Giovany Junior Ocaña Ramírez
 
 📍 Lima, Peru  
-📞 +51 924083224  
 📧 guireader19@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/giovany-ocaña)  
 🔗 [GitHub](https://github.com/CodeGiovany)
